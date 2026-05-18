@@ -1,7 +1,6 @@
+## About me
 Технический коммуникатор и product-minded builder.  
 Работаю на стыке технологий, бизнеса и пользователей.
-
-## About me
 - 🎓 Магистратура по Artificial Intelligence, ОГУ (выпуск 2027)
 - ⚙️ Интересы: IoT, Embedded Systems, AI Tools, Cloud, Automation
 - 💼 Фокус: Developer Relations, Presales Engineering, Technical Product Management
