@@ -1,16 +1,18 @@
-## Hi there 👋
+# Александр Горин
 
-<!--
-**gorinator/gorinator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Технический коммуникатор и product-minded builder.  
+Работаю на стыке технологий, бизнеса и пользователей.
 
-Here are some ideas to get you started:
+## About me
+- 🎓 Магистратура по Artificial Intelligence, ОГУ (выпуск 2027)
+- ⚙️ Интересы: IoT, Embedded Systems, AI Tools, Cloud, Automation
+- 💼 Фокус: Developer Relations, Presales Engineering, Technical Product Management
+- 🌍 English: B2
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Building
+- 📦 ZipBox — visual file archiver for Windows & macOS
+- 📸 OpenHeic — HEIC/HEIF viewer for Windows
+- 💊 Pilula — offline medicine scanner with AI assistant
+
+## Contacts
+- Email: onegorin@gmail.com
