@@ -7,6 +7,7 @@
 - 🌍 English: B2
 
 ## Building
+- 🔧 HydraUI — WPF desktop configurator for STM32-based automotive TCU
 - 📦 ZipBox — visual file archiver for Windows & macOS
 - 📸 OpenHeic — HEIC/HEIF viewer for Windows
 - 💊 Pilula — offline medicine scanner with AI assistant
