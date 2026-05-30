@@ -10,6 +10,8 @@
 - 📦 ZipBox — visual file archiver for Windows & macOS
 - 📸 OpenHeic — HEIC/HEIF viewer for Windows
 - 💊 Pilula — offline medicine scanner with AI assistant
+- 🎮 ESPlay — retro game console on ESP32, plays in browser over Wi-Fi
+- ⚡ ESPFlash GUI — one-click ESP32 flasher for Windows
 
 ## Contacts
 - Email: onegorin@gmail.com
